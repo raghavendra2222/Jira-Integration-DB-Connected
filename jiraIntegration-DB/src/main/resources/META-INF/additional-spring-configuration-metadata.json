@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "secret",
+    "type": "java.lang.String",
+    "description": "A description for 'secret'"
+  },
+  {
+    "name": "user-name",
+    "type": "java.lang.String",
+    "description": "A description for 'user-name'"
+  },
+  {
+    "name": "base-Url",
+    "type": "java.lang.String",
+    "description": "A description for 'base-Url'"
+  },
+  {
+    "name": "ticket-url",
+    "type": "java.lang.String",
+    "description": "A description for 'ticket-url'"
+  },
+  {
+    "name": "Server",
+    "type": "java.lang.String",
+    "description": "A description for 'Server'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "jira",
+    "type": "java.lang.String",
+    "description": "A description for 'jira'"
+  }
+]}
